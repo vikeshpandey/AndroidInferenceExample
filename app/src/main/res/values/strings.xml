@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Inference Example</string>
+    <string name="edit_message">Enter the values to do prediction</string>
+    <string name="button_send">Submit</string>
 </resources>
