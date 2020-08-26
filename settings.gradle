@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':dlr-release'
 rootProject.name = "Android Inference Example"
