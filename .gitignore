@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 .idea/
+dlr-release/build/
